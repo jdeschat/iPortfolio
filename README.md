@@ -1,7 +1,5 @@
 # iPortfolio
 
-  [![npm](https://badge.fury.io/js/inquirer.svg)](http://badge.fury.io/js/inquirer)
-
   ## Description
   This portfolio outlines who I am along with my experience, resume, portfolio, work, and contact information.
 
