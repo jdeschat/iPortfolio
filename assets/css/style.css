@@ -80,7 +80,7 @@ h1, h2, h3, h4, h5, h6 {
 #header .profile img {
   margin: 15px auto;
   display: block;
-  width: 120px;
+  width: 200px;
   border: 8px solid #2c2f3f;
 }
 
@@ -323,6 +323,11 @@ section {
   color: #173b6c;
 }
 
+#aboutPic {
+  width: 350px;
+  height: 230px;
+}
+
 .about .content ul {
   list-style: none;
   padding: 0;
@@ -541,6 +546,11 @@ section {
   position: relative;
   overflow: hidden;
   z-index: 1;
+}
+
+.img-fluid {
+  width: 296px;
+  height: 160px;
 }
 
 .portfolio .portfolio-wrap::before {
